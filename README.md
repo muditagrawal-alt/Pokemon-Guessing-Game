@@ -5,7 +5,9 @@ You’ll be shown the official artwork of a random Pokémon and challenged to gu
 Can you become a true Pokémon Master?
 
 📸 PREVIEW
+
 Who's that Pokémon?
+
 The game fetches official Pokémon images from the PokéAPI and displays them using Jupyter/IPython.
 
 🚀 FEATURES
